@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nuage_Creatif/static/css/main.c94405cc.css",
+    "main.js": "/Nuage_Creatif/static/js/main.0c360a07.js",
+    "index.html": "/Nuage_Creatif/index.html",
+    "main.c94405cc.css.map": "/Nuage_Creatif/static/css/main.c94405cc.css.map",
+    "main.0c360a07.js.map": "/Nuage_Creatif/static/js/main.0c360a07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94405cc.css",
+    "static/js/main.0c360a07.js"
+  ]
+}
