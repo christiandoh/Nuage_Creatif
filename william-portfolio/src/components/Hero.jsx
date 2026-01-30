@@ -104,7 +104,7 @@ const Hero = ({ scrollToSection }) => {
         <div className="hero-image">
           <div className="image-container">
             <img 
-              src="/profile.jpg" 
+              src="profile.jpg" 
               alt="William - Designer" 
               className="profile-image"
             />
